@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ray3R3
+- 👋 Hi, I’m @Raymond! A philosophy undergraduate at the University of Cambridge
 - 👀 I’m interested in learning more about coding
-- 🌱 I’m currently learning the fundamentals of front-end development
-- 💞️ I’m looking to collaborate on personal webiste development projets
-- 📫 How to reach me: Raymond Erewunmi (Linkedin)
+- 🌱 I’m currently learning the fundamentals of front-end development 
+- 📫 How to reach me: Raymond Erewunmi (Linkedin) | re379@cam.ac.uk (email)
 
 <!---
 Ray3R3/Ray3R3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
