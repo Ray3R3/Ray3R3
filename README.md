@@ -5,7 +5,7 @@
 [notavc.org](https://notavc.org) · [LinkedIn](https://www.linkedin.com/in/ray-3r3/) · [re379@cam.ac.uk](mailto:re379@cam.ac.uk)
 
 <details>
-<summary>small map</summary>
+<summary>The Flow of Ideas</summary>
 
 ```mermaid
 flowchart LR
@@ -14,5 +14,5 @@ flowchart LR
     ideas --> prototypes
     prototypes --> products
     products --> new_problems
-    problems --> questions
+    new_problems --> questions
 ````
