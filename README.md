@@ -1,7 +1,19 @@
-- 2nd Acc. | Personal Website: notavc.org 
-- How to reach me: Ray Erewunmi (Linkedin) | re379@cam.ac.uk (email)
+````md
+# Ray 3
 
-<!---
-Ray3R3/Ray3R3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**2nd account.** Experiments, notes, small systems, and (usually) half-finished ideas.
+
+[notavc.org](https://notavc.org) · [LinkedIn](https://www.linkedin.com/in/ray-3r3/) · [re379@cam.ac.uk](mailto:re379@cam.ac.uk)
+
+<details>
+<summary>small map</summary>
+
+```mermaid
+flowchart LR
+    problems --> questions
+    questions --> ideas
+    ideas --> prototypes
+    prototypes --> products
+    products --> new_problems
+    problems --> questions
+````
