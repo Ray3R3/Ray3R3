@@ -1,4 +1,4 @@
-- New Acc. | Personal Website: notavc.org 
+- 2nd Acc. | Personal Website: notavc.org 
 - How to reach me: Ray Erewunmi (Linkedin) | re379@cam.ac.uk (email)
 
 <!---
