@@ -1,4 +1,3 @@
-````md
 # Ray 3
 
 **2nd account.** Experiments, notes, small systems, and (usually) half-finished ideas.
