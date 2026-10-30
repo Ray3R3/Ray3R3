@@ -2,7 +2,7 @@
 
 **2nd account.** Experiments, notes, small systems, and (usually) half-finished ideas.
 
-[notavc.org](https://notavc.org) · [LinkedIn](https://www.linkedin.com/in/ray-3r3/) · [re379@cam.ac.uk](mailto:re379@cam.ac.uk)
+[notavc.work](https://notavc.work) · [LinkedIn](https://www.linkedin.com/in/ray-3r3/) · [raymonder3wunmi@gmail.com](mailto:raymonder3wunmi@gmail.com)
 
 <details>
 <summary>The Flow of Ideas</summary>
