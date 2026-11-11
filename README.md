@@ -12,12 +12,12 @@
 First employee and now Commercial Lead at **Nook**, an autonomous, hardware-enabled hotel model. I took go-to-market from zero to a 300-room, five-year, $10.5M deployment, and built the geospatial site-ranking, channel integrations and acquisition pipelines underneath it. Before that I built production data pipelines and recommendation systems at **Healf**, originated special-situations deals in aerospace and defence at **Stellex**, and ran a $5M robotics-thesis investment at **Auctor**. I'm also an investment fellow identifying exceptional technical talent at **Entrepreneurs First**.
 
 <p>
-  <img src="assets/logos/nook.png" alt="Nook" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/healf.png" alt="Healf" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/stellex.png" alt="Stellex Capital Management" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/auctor.png" alt="Auctor" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/credit-suisse.png" alt="Credit Suisse" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/entrepreneurs-first.png" alt="Entrepreneurs First" height="56">
+  <img src="assets/logos/nook.png" alt="Nook" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/healf.png" alt="Healf" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/stellex.png" alt="Stellex Capital Management" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/auctor.png" alt="Auctor" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/credit-suisse.png" alt="Credit Suisse" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/entrepreneurs-first.png" alt="Entrepreneurs First" height="78">
 </p>
 
 ## 🎓 Study
@@ -25,9 +25,9 @@ First employee and now Commercial Lead at **Nook**, an autonomous, hardware-enab
 Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam College), with papers in aesthetics (philsophy of art), jurisprudence (philosphy of law), mathematical and philosophical logic. Credit Suisse Scholar (full scholarship), Allen & Overy Exhibitioner (1 of 3 academic bursaries awarded), and top ~0.5% of 23,000+ in the Credit Suisse Global Coding Challenge (2021).
 
 <p>
-  <img src="assets/logos/cambridge.png" alt="University of Cambridge" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/credit-suisse.png" alt="Credit Suisse" height="56">&nbsp;&nbsp;
-  <img src="assets/logos/allen-overy.png" alt="Allen & Overy" height="56">
+  <img src="assets/logos/cambridge.png" alt="University of Cambridge" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/credit-suisse.png" alt="Credit Suisse" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/allen-overy.png" alt="Allen & Overy" height="78">
 </p>
 
 ## 🔩 Projects
