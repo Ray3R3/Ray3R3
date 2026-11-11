@@ -35,10 +35,13 @@ Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam 
 Each project is tyipcally built around a real company's problem or an interesting technical aspect of one.
 
 ### Commercial
-- **GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Postgres. Pay-per-use billing that stays correct when CPU usage arrives late or twice. *Independent proposal for HPE.*
-- **Store replenishment scheduler** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Go. Urgency-weighted restocking on a custom heap, measured against standard scheduling policies. *Independent proposal for Walmart.*
-- **Price & promo impact tool** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, TypeScript, Next.js. Counterfactual readouts on loyalty-card data, validated on placebo dates. *Independent proposal for Quantium.*
-- **Agentic wholesale transactions** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · TypeScript, Python. A buying agent with hard limits in code, tested against adversarial buyers. *Independent proposal for Fleek.*
+
+*Independent proposals*
+
+- **Hewlett Packard | GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Postgres. Pay-per-use billing that stays correct when CPU usage arrives late or twice.
+- **Walmart | Store replenishment scheduler** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Go. Urgency-weighted restocking on a custom heap, measured against standard scheduling policies.
+- **Quantium | Price & promo impact tool** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, TypeScript, Next.js. Counterfactual readouts on loyalty-card data, validated on placebo dates.
+- **Fleek (YC) | Agentic wholesale transactions** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · TypeScript, Python. A buying agent with hard limits in code, tested against adversarial buyers.
 
 ### Technical
 - **Analytical query engine** ![in progress](https://img.shields.io/badge/-in%20progress-orange) · Go, WebAssembly. SQL over Parquet with a plan optimiser and an in-browser playground.
