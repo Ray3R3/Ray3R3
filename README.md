@@ -32,7 +32,7 @@ Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam 
 
 ## 🔩 Projects
 
-Each project is built around a real company's problem and ends in a live demo or a measured result.
+Each project is tyipcally built around a real company's problem or an interesting technical aspect of one.
 
 ### Commercial
 - **GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Postgres. Pay-per-use billing that stays correct when CPU usage arrives late or twice. *Independent proposal for HPE.*
@@ -47,8 +47,8 @@ Each project is built around a real company's problem and ends in a live demo or
 ### Personal
 - **UK site intelligence** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, dbt, PostGIS, H3. Score any UK location for a business type from open data.
 
-<!--
-When a project ships, replace its bullet with a tile like this (image + link + headline result):
+<!-- NOTE TO SELF:
+REMEMBER...when a project ships, replace its bullet with a tile like this (image + link + headline result):
 
 <table><tr><td width="50%" valign="top">
   <a href="https://github.com/Ray3R3/REPO"><img src="assets/projects/IMAGE.png" alt="" width="100%"></a>
