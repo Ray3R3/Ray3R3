@@ -22,7 +22,7 @@ First employee and now Commercial Lead at **Nook**, an autonomous, hardware-enab
 
 ## 🎓 Study
 
-Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam College), with papers in aesthetics (philsophy of art), jurisprudence (philosphy of law), mathematical and philosophical logic. Credit Suisse Scholar (full scholarship), Allen & Overy Exhibitioner (1 of 3 academic bursaries awarded), and top ~0.5% of 23,000+ in the Credit Suisse Global Coding Challenge (2021).
+Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam College), with papers in aesthetics (philosophy of art), jurisprudence (philosophy of law), mathematical and philosophical logic. Credit Suisse Scholar (full scholarship), Allen & Overy Exhibitioner (1 of 3 academic bursaries awarded), and top ~0.5% of 23,000+ in the Credit Suisse Global Coding Challenge (2021).
 
 <p>
   <img src="assets/logos/cambridge.png" alt="University of Cambridge" height="78">&nbsp;&nbsp;
@@ -32,20 +32,27 @@ Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam 
 
 ## 🔩 Projects
 
-Each project is tyipcally built around a real company's problem or an interesting technical aspect of one.
+I build the systems that match, negotiate, price and settle deals. Agents do the talking; code decides what's allowed.
 
-### Commercial
+### Commercial · the life of a deal
 
-*Independent proposals*
+*Independent proposals, not affiliated with the companies named.*
 
-- **Hewlett Packard | GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Postgres. Pay-per-use billing that stays correct when CPU usage arrives late or twice.
-- **Walmart | Store replenishment scheduler** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Go. Urgency-weighted restocking on a custom heap, measured against standard scheduling policies.
-- **Quantium | Price & promo impact tool** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, TypeScript, Next.js. Counterfactual readouts on loyalty-card data, validated on placebo dates.
-- **Fleek (YC) | Agentic wholesale transactions** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · TypeScript, Python. A buying agent with hard limits in code, tested against adversarial buyers.
+<p>
+  <img src="assets/logos/fleek.png" alt="Fleek" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/walmart.png" alt="Walmart" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/quantium.png" alt="Quantium" height="78">&nbsp;&nbsp;
+  <img src="assets/logos/hpe.png" alt="Hewlett Packard Enterprise" height="78">
+</p>
+
+- **Fleek (YC) | Two-sided agentic marketplace** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · TypeScript, Python. Matches buyers to live stock and negotiates price, with each side's private limits enforced in code. *Match & negotiate.*
+- **Walmart | Multi-issue supplier negotiation** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Go. A negotiation engine that trades price against payment terms, volume and commitments to find deals both sides prefer. *Negotiate terms.*
+- **Quantium | Causal measurement service** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, TypeScript. Reproducible counterfactual readouts on millions of loyalty-card transactions: did the price or promo actually work? *Measure.*
+- **Hewlett Packard Enterprise | GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Kafka, Postgres. Usage billing on an immutable ledger that stays correct when data arrives late or twice. *Bill & enforce.*
 
 ### Technical
+- **Hohfeld** ![in progress](https://img.shields.io/badge/-in%20progress-orange) · Haskell, Z3. A custom-made typed language for legal relations that finds conflicts in contracts before they happen.
 - **Analytical query engine** ![in progress](https://img.shields.io/badge/-in%20progress-orange) · Go, WebAssembly. SQL over Parquet with a plan optimiser and an in-browser playground.
-- **Hohfeld** ![in progress](https://img.shields.io/badge/-in%20progress-orange) · Haskell, Z3. A custom-made typed language for legal relations that finds conflicts in contracts.
 
 ### Personal
 - **UK site intelligence** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, dbt, PostGIS, H3. Score any UK location for a business type from open data.
@@ -72,8 +79,8 @@ REMEMBER...when a project ships, replace its bullet with a tile like this (image
 **Data & infra**
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,sklearn,fastapi,nextjs,docker,terraform,gcp&theme=light">
-  <img src="https://skillicons.dev/icons?i=postgres,sklearn,fastapi,nextjs,docker,terraform,gcp&theme=dark" alt="Postgres, scikit-learn, FastAPI, Next.js, Docker, Terraform, GCP">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,kafka,spring,sklearn,fastapi,nextjs,docker,terraform,gcp&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,kafka,spring,sklearn,fastapi,nextjs,docker,terraform,gcp&theme=dark" alt="Postgres, Kafka, Spring, scikit-learn, FastAPI, Next.js, Docker, Terraform, GCP">
 </picture>
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
