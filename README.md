@@ -36,7 +36,7 @@ I build the systems that match, negotiate, price and settle deals. Agents do the
 
 ### Commercial · the life of a deal
 
-*Independent proposals, not affiliated with the companies named.*
+*Independent proposals, not affiliated*
 
 <p>
   <img src="assets/logos/fleek.png" alt="Fleek" height="78">&nbsp;&nbsp;
@@ -45,10 +45,10 @@ I build the systems that match, negotiate, price and settle deals. Agents do the
   <img src="assets/logos/hpe.png" alt="Hewlett Packard Enterprise" height="78">
 </p>
 
-- **Fleek (YC) | Two-sided agentic marketplace** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · TypeScript, Python. Matches buyers to live stock and negotiates price, with each side's private limits enforced in code. *Match & negotiate.*
-- **Walmart | Multi-issue supplier negotiation** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Go. A negotiation engine that trades price against payment terms, volume and commitments to find deals both sides prefer. *Negotiate terms.*
-- **Quantium | Causal measurement service** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, TypeScript. Reproducible counterfactual readouts on millions of loyalty-card transactions: did the price or promo actually work? *Measure.*
-- **Hewlett Packard Enterprise | GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Kafka, Postgres. Usage billing on an immutable ledger that stays correct when data arrives late or twice. *Bill & enforce.*
+- **Fleek (YC) | Two-sided agentic marketplace** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · TypeScript, Python. Matches buyers to live stock and negotiates price, with each side's private limits enforced in code.
+- **Walmart | Multi-issue supplier negotiation agent** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Go. A negotiation engine that trades price against payment terms, volume and commitments to find deals both sides prefer.
+- **Quantium | Causal measurement service** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Python, TypeScript. Reproducible counterfactual readouts on millions of loyalty-card transactions: did the price or promo actually work?
+- **Hewlett Packard Enterprise | GreenLake metering & billing** ![unpublished](https://img.shields.io/badge/-unpublished-lightgrey) · Java, Spring Boot, Kafka, Postgres. Usage billing on an immutable ledger that stays correct when data arrives late or twice. 
 
 ### Technical
 - **Hohfeld** ![in progress](https://img.shields.io/badge/-in%20progress-orange) · Haskell, Z3. A custom-made typed language for legal relations that finds conflicts in contracts before they happen.
