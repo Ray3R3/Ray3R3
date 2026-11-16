@@ -2,14 +2,14 @@
 
 **2nd account.**
 
-**Technical-commercial operator. I build the data systems behind the $$$: pipelines, geospatial models, integrations and the decisions they drive.**
+**Technical-commercial operator. I build the systems behind markets and the built-environment: pricing, agents, geospatial models and the data pipelines underneath.**
 
 [![Website](https://img.shields.io/badge/notavc.work-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://notavc.work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-3r3/)
 
 ## 💼 Work
 
-First employee and now Commercial Lead at **Nook**, an autonomous, hardware-enabled hotel model. I took go-to-market from zero to a 300-room, five-year, $10.5M deployment, and built the geospatial site-ranking, channel integrations and acquisition pipelines underneath it. Before that I built production data pipelines and recommendation systems at **Healf**, originated special-situations deals in aerospace and defence at **Stellex**, and ran a $5M robotics-thesis investment at **Auctor**. I'm also an investment fellow identifying exceptional technical talent at **Entrepreneurs First**.
+First employee and now Commercial Lead at **Nook**, an autonomous, hardware-enabled hotel model. I took go-to-market from zero to a 300-room, five-year, $10.5M deployment, and built the geospatial site-ranking, channel integrations and acquisition pipelines underneath it. Before that I built production data pipelines, ranking systems and recommendation machines at **Healf**, originated special-situations deals in aerospace and defence at **Stellex**, and ran a $5M robotics-thesis investment at **Auctor**. I also identify exceptional technical talent at **Entrepreneurs First** as an investment fellow.
 
 <p>
   <img src="assets/logos/nook.png" alt="Nook" height="78">&nbsp;&nbsp;
@@ -32,7 +32,7 @@ Law, Art History and Philosophy at the **University of Cambridge** (Fitzwilliam 
 
 ## 🔩 Projects
 
-I build the systems that match, negotiate, price and settle deals. Agents do the talking; code decides what's allowed.
+Market design, multi-agent systems and physical AI.
 
 ### Commercial 
 
